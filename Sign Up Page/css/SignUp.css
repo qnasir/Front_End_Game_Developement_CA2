@@ -95,76 +95,76 @@ body {
     margin:0 auto;
 }
     
-    .mail-form-agile {
-        padding: 50px 40px;
-        text-align: center;
-        width: 410px;
-        margin:0px;
-        background: rgba(0, 0, 0, 0.18);
-        color: #000;
-        margin:0 auto;
-    }
+.mail-form-agile {
+    padding: 50px 40px;
+    text-align: center;
+    width: 410px;
+    margin:0px;
+    background: rgba(0, 0, 0, 0.18);
+    color: #000;
+    margin:0 auto;
+}
     
-    .padding {
+.padding {
     margin: 20px 0 30px;
-    }
+}
 
-    .mail-form-agile input[type="text"], .mail-form-agile input[type="password"] {
-        padding: 13px 10px;
-        width: 92.5%;
-        font-size: 16px;
-        outline: none;
-        background:transparent;
-        border:0px;
-        border-bottom: 1px solid #fff;
-        border-radius: 0px;
-        font-family: 'Asap', sans-serif;
-        letter-spacing:1.6px;
-        color:#fff;
-        }
-        input::placeholder{
-            color: white;
-        }
-        .mail-form-agile input[type="submit"]{
-        font-size: 18px;
-        padding: 10px 20px;
-        letter-spacing:1.2px;
-        border: none;
-        text-transform: capitalize;
-        outline: none;
-        border-radius: 4px;
-        background: #D65B88;
-        color: #fff;
-        cursor: pointer;
-        margin: 0 auto;
-        font-family: 'Asap', sans-serif;
-        }
-        .mail-form-agile input[type="submit"]:hover {
-         transition-duration: 1s;
-         background:rgba(91, 157, 214, 0.76);
-        }
+.mail-form-agile input[type="text"], .mail-form-agile input[type="password"] {
+    padding: 13px 10px;
+    width: 92.5%;
+    font-size: 16px;
+    outline: none;
+    background:transparent;
+    border:0px;
+    border-bottom: 1px solid #fff;
+    border-radius: 0px;
+    font-family: 'Asap', sans-serif;
+    letter-spacing:1.6px;
+    color:#fff;
+}
+input::placeholder{
+    color: white;
+}
+.mail-form-agile input[type="submit"]{
+    font-size: 18px;
+    padding: 10px 20px;
+    letter-spacing:1.2px;
+    border: none;
+    text-transform: capitalize;
+    outline: none;
+    border-radius: 4px;
+    background: #D65B88;
+    color: #fff;
+    cursor: pointer;
+    margin: 0 auto;
+    font-family: 'Asap', sans-serif;
+}
+.mail-form-agile input[type="submit"]:hover {
+    transition-duration: 1s;
+    background:rgba(91, 157, 214, 0.76);
+}
 
-        .footer{
-            text-align: center;
-            padding-top:75px;
-            letter-spacing:1.6px;
-            line-height:22px;
-            }
-        .footer p {
-            font-size: 16px;
-            color: #fff;
-            margin: 0px;
-            letter-spacing:1.4px;
-            }
-            .footer p a {
-                color:#D65B88;
-                font-weight:blod;
-                transition-duration: 0.8s;
-                font-size: 20px;
-                text-decoration: none;
-                }
+.footer{
+    text-align: center;
+    padding-top:75px;
+    letter-spacing:1.6px;
+    line-height:22px;
+}
+.footer p {
+    font-size: 16px;
+    color: #fff;
+    margin: 0px;
+    letter-spacing:1.4px;
+}
+.footer p a {
+    color:#D65B88;
+    font-weight:blod;
+    transition-duration: 0.8s;
+    font-size: 20px;
+    text-decoration: none;
+}
 
-                .footer p a:hover {
-                    color: #51cbe1;
-                     transition-duration: 0.8s;
-                    }
+.footer p a:hover {
+    color: #51cbe1;
+    transition-duration: 0.8s;
+}

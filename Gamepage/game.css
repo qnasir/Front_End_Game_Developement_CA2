@@ -68,3 +68,16 @@ body {
         transform: translateX(1);
     }
 }
+
+/* Bar Styling */
+#bar {
+    height: 250px;
+    width: 80px;
+    background: red;
+    border-radius: 20px;
+    box-shadow: inset -25px -25px 40px rgba(0,0,0,.5);
+    cursor: pointer;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+}
